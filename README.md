@@ -1,3 +1,7 @@
 # magisk-symbiote
 
-Personal used only
+#Personal used only
+
+Update
+ - New release
+
