@@ -1,6 +1,6 @@
 {
   "magisk": {
-    "version": "23.0",
+    "version": "Symbiote",
     "versionCode": "23001",
     "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@24.3/app-release.apk",
     "note": "https://raw.githubusercontent.com/fufufu7/magisk-symbiote/main/23000.md"
