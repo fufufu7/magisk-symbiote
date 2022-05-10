@@ -2,7 +2,7 @@
   "magisk": {
     "version": "Symbiote",
     "versionCode": "23001",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@24.3/app-release.apk",
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/app-release.apk",
     "note": "https://raw.githubusercontent.com/fufufu7/magisk-symbiote/main/23000.md"
   },
   "stub": {
