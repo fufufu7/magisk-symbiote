@@ -7,6 +7,6 @@
   },
   "stub": {
     "versionCode": "21",
-    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/stub-release.apk"
+    "link": "https://github.com/fufufu7/magisk-symbiote/releases/download/v23.0/stub-release.apk"
   }
 }
