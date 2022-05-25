@@ -5,6 +5,10 @@
 - Please use the original Magisk for ordinary daily use 
 
 ## Update
+ Symbiote v12.1
+ - Update zip contain (module)
+
+ Symbiote v12
  - New release
 
 ## Thanks to
